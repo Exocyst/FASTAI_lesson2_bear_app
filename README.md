@@ -8,6 +8,7 @@ This repo was setup for the express purpose of testing dashboard hosting on mybi
 Check out the results here:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Exocyst/FASTAI_lesson2_bear_app/production?labpath=voila%2Frender%2Fbear_app.ipynb)
 
+### Thoughts on the exercise:
 Although not particularly complex, this simple classification model was easy to learn and seeing it hosted on mybinder.org is oddly satisfying.  The concepts were very well described by the FASTAI team.  I highly recommend the course to anyone who thinks deep learning is *too complex*. Actually, the concepts are dead simple, but it is critical to understand each component in isolation.  The videos and jupyter notebooks are a great introduction to how this complexity works.
 
 ### A little wrinkle to consider on binder:
