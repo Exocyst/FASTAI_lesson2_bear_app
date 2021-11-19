@@ -6,4 +6,5 @@ https://github.com/fastai/fastbook/blob/master/02_production.ipynb
 This repo was setup for the express purpose of testing dashboard hosting on mybinder.org
 
 Check out the results here:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Exocyst/FASTAI_lesson2_bear_app/main?urlpath=%2Fvoila%2Frender%2Fgit%2FFASTAI_lesson2_bear_app%2Fbear_app.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Exocyst/FASTAI_lesson2_bear_app/main?labpath=%2Fvoila%2Frender%2Fbear_app.ipynb)
+
